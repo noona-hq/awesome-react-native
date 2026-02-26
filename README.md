@@ -1,4 +1,3 @@
-```markdown
 # Awesome React Native
 
 A curated collection of React Native components, news, tools, and learning resources.
@@ -24,4 +23,3 @@ A curated collection of React Native components, news, tools, and learning resou
 ## Dependencies
 
 - **Noona Services:** N/A (This repository does not depend on other noona services.)
-```
